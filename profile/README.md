@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### This is the Night Sky Gaming DEV GitHub organisation
+### This is the Andromeda Gaming DEV GitHub organisation
 
 ### To-do list
 - [x] Channels bot
