@@ -16,5 +16,6 @@
 ### To-do list
 - [x] Channels bot
 - [x] Tickets bot
-- [ ] New member application bot
-- [ ] Events bot
+- [x] New member application bot
+- [x] Events bot
+- [ ] Background activities bot
