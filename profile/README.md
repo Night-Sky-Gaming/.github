@@ -18,4 +18,4 @@
 - [x] Tickets bot
 - [x] New member application bot
 - [x] Events bot
-- [ ] Background activities bot
+- [x] Background activities bot
