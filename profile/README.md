@@ -5,4 +5,4 @@
 - [x] Tickets bot
 - [x] New member application bot
 - [x] Background activities bot
-0 [x] Full dashboard for background activities bot
+- [x] Full dashboard for background activities bot
